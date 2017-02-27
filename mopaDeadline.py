@@ -1,5 +1,6 @@
 import os, sys
 import getpass
+from guerilla import *
 
 # Get the group
 # check if username is the same as the deadline name.
